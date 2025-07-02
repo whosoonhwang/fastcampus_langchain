@@ -1,0 +1,8 @@
+### api_key ###
+.env
+
+### mac ###
+.DS_Store
+
+### VS Code ###
+.vscode/
